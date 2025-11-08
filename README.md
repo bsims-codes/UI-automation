@@ -38,6 +38,8 @@ Do not run it against third-party apps, chat clients, or services you do not con
        sleep, 1000
    }
    Return
+
+   Esc::ExitApp
    ```
 
 3. Save the file as **`UI-automation.ahk`**
