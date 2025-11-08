@@ -45,12 +45,13 @@ Do not run it against third-party apps, chat clients, or services you do not con
 3. Save the file as **`UI-automation.ahk`**
 
    * In Notepad: *File → Save As…* → **Save as type:** *All Files* → Name: `UI-automation.ahk`
+   * Save it somewhere accessible like your Desktop
 
 ---
 
 ## Run the script
 
-1. Double-click `ui_unsafe_local.ahk`.
+1. Double-click `UI-automation.ahk`.
 
    * You should see the green AutoHotkey “H” icon appear in the system tray.
 2. Focus the window that should receive the keystrokes.
