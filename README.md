@@ -60,6 +60,8 @@ Do not run it against third-party apps, chat clients, or services you do not con
 
 ## Stop the script
 
+* **ESCAPE key**
+  
 * **From system tray:** Right-click the AutoHotkey icon → **Exit**.
 * **From Task Manager:**
 
